@@ -1,9 +1,8 @@
 # IMF Gadget API
 
 ## Overview
-The IMF Gadget API is a secure RESTful service built with Node.js, Express, and PostgreSQL to manage the Impossible Missions Force's gadget inventory. This project was developed as an assignment for a backend internship role at Upraised. The service is secured using JWT authentication and is fully documented using Swagger UI.
+The IMF Gadget API is a secure RESTful service built with Node.js, Express, and PostgreSQL to manage the Impossible Missions Force's gadget inventory. The service is secured using JWT authentication and is fully documented using Swagger UI.
 
-## Deployment
 The API is deployed on Render and is accessible at:
 ```
 https://sm-imf-gadget-api-internapp.onrender.com/sm
